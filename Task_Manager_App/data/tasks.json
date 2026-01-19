@@ -1,8 +1,8 @@
 [
     {
-        "name": "sushant khairnar", # Task name
-        "description": "kearn flutter", # Task description
-        "priority": "High" # Task priority
+        "name": "sushant khairnar",
+        "description": "kearn flutter",
+        "priority": "High"
     }
 
 ]
